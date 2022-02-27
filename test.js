@@ -1,10 +1,2 @@
-sap.ui.define([
-	"sap/ui/base/ManagedObject"
-], function(
-	ManagedObject
-) {
-	"use strict";
-
-	return ManagedObject.extend("undefined", {
-	});
-});
+var a = 1
+var b = 2
